@@ -1,15 +1,5 @@
 # Zadanie: Regulowany rynek
 
-| Termin oddania | Punkty     |
-|----------------|:-----------|
-| 13.05.2021  23:00   |    10      |
-
---- 
-Przekroczenie terminu o **n** zajęć wiąże się z karą:
-- punkty uzyskanie za realizację zadania są dzielone przez **2<sup>n</sup>**.
-
---- 
-
 ### Napisz program, który ...
  będzie modelował następującą sytuację rynkową:
 
